@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(250, 247, 247);
+}
+
+h1 {
+    color: rgb(193, 12, 12);
+    text-align: center;
+}
+
+.bgdark {
+    background-color: #333;
+    color: black;
+    padding: 50px, 20px 20px, 20px;
+}
+
+.border-parargraph {
+    border: 20px double black;
+    border-radius: 15px;
+    padding: 20px;
+
+}
+
+.padding {
+    padding: 20px;   
+    margin: 20px;
+    border: 5px solid gray; 
+}
+
+.margin {
+    margin: 20px;
+    border: 5px solid rgb(18, 15, 242);
+}
+
+img{
+
+    width: 50%;
+}
+
+
+
+
+
